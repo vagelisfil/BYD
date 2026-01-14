@@ -9,7 +9,7 @@ In the latest firmware updates, BYD has disabled standard developer tools, preve
 
 ## Enabling ADB  
 
-1. Ensure your phone is connected to the car via **Bluetooth**.  
+1. Ensure your phone is connected to the car via **Bluetooth** or tap continously on the Cellural Network option in setting menu.  
 2. Dial the following number on the car's infotainment system:  
 
    ```
